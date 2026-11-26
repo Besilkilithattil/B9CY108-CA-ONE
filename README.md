@@ -1,5 +1,5 @@
-# B9CY108 CA ONE working project
+# B9CY108 CA ONE project files
 
-This private repository holds an AI-assisted working draft of four programming tasks. The assignment brief says final AI content is not allowed, so this material requires student review under the lecturer's rules before any Moodle submission or own-work declaration.
+`B9CY108-source.zip` contains the four task projects: two separate C# applications, the Python TCP client and server, and the Dublin postal district scraper with its JSON and CSV files. The report and real screenshots are in the local submission package.
 
-The source archive is prepared locally and has not yet been uploaded because browser file access is disabled. No earlier progress history is claimed.
+These materials were developed with ChatGPT assistance. Check the course rules before making an own-work declaration or submitting to Moodle.
